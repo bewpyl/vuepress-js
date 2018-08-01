@@ -1,0 +1,6 @@
+---
+sidebar: auto
+---
+
+# JavaScript Objects
+

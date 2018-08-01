@@ -8,7 +8,16 @@ module.exports = {
   
         { text: "Getting Started", link: "/page/gettingStarted" },
   
-        { text: "Config", link: "/page/config" }
+        { text: "JS Fundamental", link: "/page/fundamental" },
+
+        { text: "Control Flow", link: "/page/controlflow" },
+
+        { text: "JS Array", link: "/page/array" },
+
+        { text: "JS Function", link: "/page/function" },
+
+        { text: "JS Objects", link: "/page/object" },
+
   
         // {
   
